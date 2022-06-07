@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class MyHashMap<K, V> {
     private int capacity = 16;
 
