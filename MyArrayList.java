@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class MyArrayList <T>{
     private final int SIZE = 10;
     private Object[] array = new Object[SIZE];
